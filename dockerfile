@@ -1,12 +1,7 @@
-FROM node:latest
-
-WORKDIR /usr/src/app
-
-COPY package.json ./
-
-RUN npm install
-
-COPY . .
-
-EXPOSE 4000
-CMD [ "node", "index.js" ]
+FROM node:16-alpine 
+WORKDIR /app
+COPY package*.json ./
+RUN npm ci
+COPY . ./
+ENV PORT 4000
+EXPOSE ${PORT}
