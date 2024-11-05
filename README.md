@@ -52,3 +52,5 @@ Checkout: Fetches the source code from the repository.
 Build: Builds the Docker image for the application.
 Test: Runs automated tests.
 Deploy: Deploys the application to a Kubernetes cluster.
+![Capture d'écran 2024-11-04 020736](https://github.com/user-attachments/assets/8a6b4ff6-ee68-43eb-936e-821bf606bb81)
+
