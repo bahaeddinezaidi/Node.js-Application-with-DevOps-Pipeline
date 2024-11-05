@@ -22,7 +22,7 @@ This repository contains a simple Node.js application demonstrating a CI/CD pipe
 
 This project showcases a straightforward Node.js application that highlights modern DevOps practices. It integrates a CI/CD pipeline using Jenkins, enabling automated testing and deployment. The application is containerized with Docker and deployed to a Kubernetes cluster, demonstrating how to manage applications at scale.
 
-![Application Screenshot](https://via.placeholder.com/800x400?text=Application+Screenshot)
+![Application Screenshot](![Capture d'écran 2024-11-04 020736](https://github.com/user-attachments/assets/8a6b4ff6-ee68-43eb-936e-821bf606bb81))
 
 ## Installation
 
@@ -52,5 +52,5 @@ Checkout: Fetches the source code from the repository.
 Build: Builds the Docker image for the application.
 Test: Runs automated tests.
 Deploy: Deploys the application to a Kubernetes cluster.
-![Capture d'écran 2024-11-04 020736](https://github.com/user-attachments/assets/8a6b4ff6-ee68-43eb-936e-821bf606bb81)
+
 
