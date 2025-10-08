@@ -29,7 +29,7 @@ This project showcases a straightforward Node.js application that highlights mod
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/nodeapp_devops.git
+   git clone https://github.com/bahaeddinezaidi/Node.js-Application-with-DevOps-Pipeline.git
    cd nodeapp_devops
    Install the required dependencies:
 
